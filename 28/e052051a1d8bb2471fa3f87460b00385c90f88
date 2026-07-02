@@ -1,0 +1,25 @@
+apps/desktop/src/renderer/routes/_authenticated/_dashboard/v2-workspace/$workspaceId/components/WorkspaceSidebar/hooks/useChangesTab/components/ChangesFileList/ChangesFileList.tsx
+  s_f497b21964323c::t_fd9831e8bd97a6 93
+apps/desktop/src/renderer/stores/v2-changes-sections/index.ts
+  s_f497b21964323c::t_9528e74bfc8f1c 1-2
+apps/desktop/src/renderer/stores/v2-changes-sections/store.ts
+  s_f497b21964323c::t_d952d2d104dc13 1-32
+apps/desktop/src/renderer/routes/_authenticated/_dashboard/v2-workspace/$workspaceId/components/WorkspaceSidebar/hooks/useChangesTab/components/ChangesFileList/components/ChangesSection/ChangesSection.tsx
+  s_f497b21964323c::t_fd9831e8bd97a6 14-17,22,30,36-43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "28e052051a1d8bb2471fa3f87460b00385c90f88",
+  "prompts": {},
+  "sessions": {
+    "s_f497b21964323c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1fcda4fd-04c2-41fc-bbaa-7d98e93fbc60",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Kevin Cheng <kevin.cheng.97@gmail.com>"
+    }
+  }
+}
