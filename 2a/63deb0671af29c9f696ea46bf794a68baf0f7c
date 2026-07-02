@@ -1,0 +1,19 @@
+apps/desktop/src/renderer/stores/v2-changes-sections/store.ts
+  s_f497b21964323c::t_125ee263f09abf 1,5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "2a63deb0671af29c9f696ea46bf794a68baf0f7c",
+  "prompts": {},
+  "sessions": {
+    "s_f497b21964323c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1fcda4fd-04c2-41fc-bbaa-7d98e93fbc60",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Kevin Cheng <kevin.cheng.97@gmail.com>"
+    }
+  }
+}
