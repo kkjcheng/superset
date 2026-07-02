@@ -1,0 +1,20 @@
+apps/desktop/src/renderer/screens/main/components/WorkspaceView/RightSidebar/ChangesView/components/CategorySection/CategorySection.tsx
+  s_63af31f5951e96::t_790d5c4d5648f3 76,81-84,94
+  s_63af31f5951e96::t_765ab224539df2 40-47,53,77-80,85-93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "49276ff762f421cb357444ff3f4bdccec764a97c",
+  "prompts": {},
+  "sessions": {
+    "s_63af31f5951e96": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "94af3b73-e4e7-4b62-aea5-165ffcebc1e6",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Kevin Cheng <kevin.cheng.97@gmail.com>"
+    }
+  }
+}
