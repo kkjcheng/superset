@@ -1,0 +1,24 @@
+packages/host-service/src/trpc/router/workspaces/workspaces.ts
+  s_c2e01aee0a98bb::t_dd938f5524cfe9 8
+  s_c2e01aee0a98bb::t_b956a2667ee8d2 47
+packages/host-service/src/trpc/router/workspace-creation/utils/resolve-new-branch-start-point.test.ts
+  s_c2e01aee0a98bb::t_5b743fe0836428 1-138
+packages/host-service/src/trpc/router/workspace-creation/utils/resolve-new-branch-start-point.ts
+  s_c2e01aee0a98bb::t_b9238028efcd6f 1-69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "84b52e05889c8f0c0c760868f96ea2992075b4c9",
+  "prompts": {},
+  "sessions": {
+    "s_c2e01aee0a98bb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "31d92d87-057e-4255-ab28-690a425e7368",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Kevin Cheng <kevin.cheng.97@gmail.com>"
+    }
+  }
+}
