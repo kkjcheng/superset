@@ -1,0 +1,31 @@
+apps/desktop/src/renderer/routes/_authenticated/_dashboard/v2-workspace/$workspaceId/hooks/usePaneRegistry/components/FilePane/components/FilePaneHeaderExtras/FilePaneHeaderExtras.tsx
+  s_12a3267c0d522c::t_6298408e1b9a4c 52-55
+  s_12a3267c0d522c::t_30ec9dc7174b51 5,7
+  s_12a3267c0d522c::t_2a18ce387e07c4 89-97
+  s_12a3267c0d522c::t_f76725a4abbf6f 26
+  s_3d0f184c3b3b81::t_26b1a250d34348 85-88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "0879bd0be5912b86054ec3f3ebd453f3d6002d4a",
+  "prompts": {},
+  "sessions": {
+    "s_12a3267c0d522c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "60462a58-bc72-48dd-b472-3d357cffe463",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Kevin Cheng <kevin.cheng.97@gmail.com>"
+    },
+    "s_3d0f184c3b3b81": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "00f43085-6fd8-48da-a596-f763c08365df",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Kevin Cheng <kevin.cheng.97@gmail.com>"
+    }
+  }
+}
